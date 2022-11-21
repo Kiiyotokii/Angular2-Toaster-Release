@@ -3,4 +3,3 @@ export declare enum BodyOutputType {
     TrustedHtml = 1,
     Component = 2
 }
-//# sourceMappingURL=bodyOutputType.d.ts.map

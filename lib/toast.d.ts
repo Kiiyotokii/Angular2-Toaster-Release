@@ -20,4 +20,3 @@ export interface Toast {
 export declare type ToastType = 'success' | 'info' | 'warning' | 'wait' | 'error';
 export declare type OnActionCallback = (toast: Toast) => void;
 export declare type ProgressBarDirection = 'decreasing' | 'increasing';
-//# sourceMappingURL=toast.d.ts.map

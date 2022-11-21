@@ -1,6 +1,5 @@
 import { BodyOutputType } from './bodyOutputType';
 import { ToastType } from './toast';
-import * as i0 from "@angular/core";
 export declare const DefaultTypeClasses: {
     [key in ToastType]?: string;
 };
@@ -63,7 +62,4 @@ export declare class ToasterConfig implements IToasterConfig {
     mouseoverTimerStop: boolean;
     toastContainerId?: number | null;
     constructor(configOverrides?: IToasterConfig);
-    static ɵfac: i0.ɵɵFactoryDeclaration<ToasterConfig, never>;
-    static ɵprov: i0.ɵɵInjectableDeclaration<ToasterConfig>;
 }
-//# sourceMappingURL=toaster-config.d.ts.map

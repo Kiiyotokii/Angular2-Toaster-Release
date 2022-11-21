@@ -1,7 +1,6 @@
 import { Toast, ToastType } from './toast';
 import { IClearWrapper } from './clearWrapper';
 import { Observable, Subject } from 'rxjs';
-import * as i0 from "@angular/core";
 export declare class ToasterService {
     addToast: Observable<Toast>;
     private _addToast;
@@ -43,7 +42,4 @@ export declare class ToasterService {
      *        The toastContainerId of the container to remove toasts from.
      */
     clear(toastId?: string, toastContainerId?: number): void;
-    static ɵfac: i0.ɵɵFactoryDeclaration<ToasterService, never>;
-    static ɵprov: i0.ɵɵInjectableDeclaration<ToasterService>;
 }
-//# sourceMappingURL=toaster.service.d.ts.map

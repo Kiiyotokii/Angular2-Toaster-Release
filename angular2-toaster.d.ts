@@ -1,6 +1,6 @@
 /**
  * Generated bundle index. Do not edit.
  */
-/// <amd-module name="angular2-toaster" />
 export * from './public-api';
-//# sourceMappingURL=angular2-toaster.d.ts.map
+export { Transitions as ɵa } from './lib/transitions';
+export { TrustHtmlPipe as ɵb } from './lib/trust-html.pipe';
