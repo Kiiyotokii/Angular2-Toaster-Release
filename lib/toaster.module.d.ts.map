@@ -1,0 +1,1 @@
+{"version":3,"file":"toaster.module.d.ts","sourceRoot":"","sources":["../../../src/angular2-toaster/src/lib/toaster.module.ts"],"names":[],"mappings":"AAAA,OAAO,EAAY,mBAAmB,EAAE,MAAM,eAAe,CAAC;;;;;;AAO9D,qBAYa,aAAa;IACtB,MAAM,CAAC,OAAO,IAAI,mBAAmB,CAAC,aAAa,CAAC;IAOpD,MAAM,CAAC,QAAQ,IAAI,mBAAmB,CAAC,aAAa,CAAC;yCAR5C,aAAa;0CAAb,aAAa;0CAAb,aAAa;CAcxB"}
